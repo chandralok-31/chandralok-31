@@ -1,4 +1,4 @@
-![logo](https://github.com/chandralok-31/chandralok-31/blob/main/Github%20Banner.png)
+![logo](https://github.com/chandralok-31/chandralok-31/blob/main/Github%20pic.webp)
 <h1 align="center">Hey Everyone 👋, I'm Chandralok Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
