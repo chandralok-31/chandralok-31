@@ -1,4 +1,6 @@
-
+<h1 align="center">
+ <img src="https://raw.githubusercontent.com/chandralok-31/chandralok-31/main/pic.png" alt="pic"/>
+</h1>
 
 <h1 align="center">Hey Everyone 👋, I'm Chandralok Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
