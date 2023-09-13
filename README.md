@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandralok-31&label=Profile%20views&color=0e75b6&style=flat" alt="chandralok-31" /> </p>
 
-- 🔭 I’m currently working on **Spring Boot**
+- 🔭 I’m currently working on **Microservices**
 
-- 🌱 I’m currently learning **Java, Spring Boot, React**
+- 🌱 I’m currently learning **Java, Spring Boot, Microservices**
 
 - 👨‍💻 All of my projects are available at [https://chandra31.pythonanywhere.com/](https://chandra31.pythonanywhere.com/)
 
